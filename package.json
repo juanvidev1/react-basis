@@ -1,0 +1,16 @@
+{
+  "name": "react-proyect-basis",
+  "version": "1.0.0",
+  "description": "A base template for react projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "components",
+    "template"
+  ],
+  "author": "juanvidev",
+  "license": "MIT"
+}
