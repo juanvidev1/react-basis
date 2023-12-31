@@ -1,8 +1,9 @@
 import './App.css';
+import  { AppUI } from './AppUI';
 
 function App() {
   return (
-    <h1>Inicio</h1>
+    <AppUI />
   );
 }
 
